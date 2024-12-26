@@ -47,6 +47,7 @@ const Home = () => {
           <li><strong>InvoiceMax:</strong> Comprehensive invoicing application using React</li>
           <li><strong>Budget App:</strong> User-friendly budget management tool with React</li>
           <li><strong>My Tailor's Logbook:</strong> This app is an essential tool for accurately recording client measurements, tracking key details, and ensuring precise fittings and timely delivery.</li>
+          <li><strong>Kings-Calc:</strong> This app is a Simple Working Calculator designed with React. Its primary goal is to provide basic arithmetic operations and allow users to interact with a clean,<br /> user-friendly interface.</li>
         </ul>
       </div>
     </div>
