@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.e74c9abc.css",
-    "main.js": "/static/js/main.e3e002f2.js",
-    "index.html": "/index.html",
-    "main.e74c9abc.css.map": "/static/css/main.e74c9abc.css.map",
-    "main.e3e002f2.js.map": "/static/js/main.e3e002f2.js.map"
+    "main.css": "/thollarkings-portfolio/static/css/main.e74c9abc.css",
+    "main.js": "/thollarkings-portfolio/static/js/main.e3e002f2.js",
+    "index.html": "/thollarkings-portfolio/index.html",
+    "main.e74c9abc.css.map": "/thollarkings-portfolio/static/css/main.e74c9abc.css.map",
+    "main.e3e002f2.js.map": "/thollarkings-portfolio/static/js/main.e3e002f2.js.map"
   },
   "entrypoints": [
     "static/css/main.e74c9abc.css",
